@@ -1,0 +1,15 @@
+.DS_Store
+.env
+.idea
+.vscode
+
+*.pyc
+__pycache__
+*.log
+*.ipynb
+
+db/
+log/
+var/
+backup/
+.ipynb_checkpoints/
